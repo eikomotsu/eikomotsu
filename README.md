@@ -1,3 +1,41 @@
+# 💫 Hi 👋, I'm **Yashwanth**
+**A passionate Data Science Student || Cybersecurity Enthusiast || SaaS & Cloud Explorer from India**
+
+📧 Email Me 👉 ✉️ **navariyashwanthreddy@gmail.com** for Collaboration, Projects, or Anything Else 😊  
+
+---
+
+## 🚀 About Me
+
+- 🔭 **I’m currently working on:** Smart Campus Security & SaaS Projects  
+- 🌱 **I’m currently learning:** Data Science, Cybersecurity, Cloud & DevOps  
+- 👯 **I’m looking to collaborate on:** ML, Security, SaaS & Real-World Tech Projects  
+- 🤔 **I’m looking for help with:** Advanced ML Models & Scalable Systems  
+- 💬 **Ask me about:** Data Science, Cybersecurity, SaaS, Networking  
+- 📫 **How to reach me:** navariyashwanthreddy@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I love building smart & secure systems 🚀  
+
+---
+
+## 🛠️ Skills & Interests
+- Data Science  
+- Machine Learning  
+- Cybersecurity  
+- Cloud & DevOps  
+- SaaS Development  
+- Networking  
+
+---
+
+⭐ *Feel free to explore my repositories and collaborate!*
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NAVARI YASHWANTH REDDY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthreddy.navari_2028@woxsen.edu.in) 
