@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm **Yashwanth**
-**A passionate Data Science Student || Cybersecurity Enthusiast || SaaS & Cloud Explorer from India**
+**A passionate Data Science Student || machine learning engineer || SaaS & Cloud Explorer from India**
 
 📧 Email Me 👉 ✉️ **navariyashwanthreddy@gmail.com** for Collaboration, Projects, or Anything Else 😊  
 
